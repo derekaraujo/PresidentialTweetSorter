@@ -8,5 +8,6 @@ Can Donald Trump's tweets be identified from their content alone?  We'll train s
 
 ```
 MOST PREDICTIVE PRESIDENTIAL WORD STEMS:
-['crook', 'illeg', 'media', 'loser', 'correct', 'berni', 'bad', 'nbc', 'dishonest', 'cnn', 'bush', 'nice', 'jeb', 'teleprompt', 'imposs']
+['crook', 'illeg', 'media', 'loser', 'correct', 'berni', 'bad', 'nbc', 'dishonest', 'cnn', 
+'bush', 'nice', 'jeb', 'teleprompt', 'imposs']
 ```
